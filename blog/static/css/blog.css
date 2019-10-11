@@ -4,12 +4,15 @@ h1 a, h2 a {
 }
 body {
     padding-left: 15px;
+    padding-right: 15px;
 
 }
 .page-header {
     background-color: #df173d;
     margin-top: 0;
+    margin-right: 15px;
     padding: 20px 20px 20px 40px;
+
 }
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
     color: #ffffff;
